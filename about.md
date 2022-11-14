@@ -8,11 +8,17 @@ Hello! Here's the TL;DR about me:
 - first-year CS-Math major @ Harvey Mudd College
 - described as a great leader by past coaches 
 - experience being able to explain advanced terms in simpler terms
+
 --> I'm a great teacher! Exactly what you need in a PM or any helpful team member
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My interests go beyond CS and Math:
+
+- Small business owner [@shopmikamina](linkto:instagram.com/shopmikamina)
+- I love working with arts and crafts, refining my eye for small details!
+
+
 
 ### Contact me
 
