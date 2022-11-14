@@ -15,7 +15,7 @@ Hello! Here's the TL;DR about me:
 
 My interests go beyond CS and Math:
 
-- Small business owner [@shopmikamina](linkto:instagram.com/shopmikamina)
+- Small business owner [@shopmikamina](instagram.com/shopmikamina)
 - I love working with arts and crafts, refining my eye for small details!
 
 
