@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Hello! Here's the TL;DR about me:
-- first-year CS-Math major @ Harvey Mudd College
+- CS-Math major '26 @ Harvey Mudd College
 - described as a great leader by past coaches 
 - experience being able to explain advanced terms in simpler terms
 
