@@ -9,7 +9,7 @@ Here's a look at some of the creations:
 
 ![image](https://user-images.githubusercontent.com/118146378/203852508-e10c11eb-80b2-4e39-b60c-7089f63d7143.png)
 
-<img src="[https://ik.imagekit.io/ikmedia/women-dress-2.jpg](https://user-images.githubusercontent.com/118146378/203852508-e10c11eb-80b2-4e39-b60c-7089f63d7143.png)" 
+<img src="![image](https://user-images.githubusercontent.com/118146378/203852508-e10c11eb-80b2-4e39-b60c-7089f63d7143.png)" 
      width="400" 
      height="500" />
 
