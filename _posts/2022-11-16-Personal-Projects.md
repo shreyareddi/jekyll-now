@@ -32,3 +32,17 @@ Additionally, I'm an avid journaler/scrapbook-er. Here's some of works featured 
     <img src="https://user-images.githubusercontent.com/118146378/203854381-e9a4a8e9-9b60-4a32-9a87-cf3151a997a0.png" alt="Jboinba #2" style="width:500px;height:500px;">
   </div>
 </div>
+
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
