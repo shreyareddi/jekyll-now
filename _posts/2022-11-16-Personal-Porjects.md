@@ -9,9 +9,7 @@ Here's a look at some of the creations:
 
 ![image](https://user-images.githubusercontent.com/118146378/203852508-e10c11eb-80b2-4e39-b60c-7089f63d7143.png)
 
-<img src="(https://user-images.githubusercontent.com/118146378/203852508-e10c11eb-80b2-4e39-b60c-7089f63d7143.png)" 
-     width="400" 
-     height="400" />
+<img src="https://user-images.githubusercontent.com/118146378/203852508-e10c11eb-80b2-4e39-b60c-7089f63d7143.png" alt="Cat Phone Charms" style="width:500px;height:600px;">
 
 ![image](https://user-images.githubusercontent.com/118146378/203852535-a867fa92-9519-41fe-a3b4-2295003b3f40.png)
 
