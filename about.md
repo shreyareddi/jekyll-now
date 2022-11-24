@@ -5,8 +5,8 @@ permalink: /about/
 ---
 
 Hello! Here's the TL;DR about me:
-- CS-Math major '26 @ Harvey Mudd College
-- described as a great leader and teacher by past coaches 
+- CS-Math '26 @ Harvey Mudd College
+- described as a great leader w/ the drive to get things done by past coaches 
 - qualified to teach complex concepts to anyone!
   - I'm a great teacher! Exactly what you need in a PM or any helpful team member
 
@@ -18,6 +18,7 @@ My interests go beyond CS and Math:
 - I love working with arts and crafts, refining my eye for small details!
 - I'm interested in Economics and understanding why and how people make decisions
   - This allows me to understand the choices team members or partners may make and provide me with the resources to guide them with their decisions
+- I'm a sucker for good food, boba, or corny dad jokes!
 
 
 ### Contact me
