@@ -6,8 +6,8 @@ permalink: /about/
 
 Hello! Here's the TL;DR about me:
 - CS-Math major '26 @ Harvey Mudd College
-- described as a great leader by past coaches 
-- experience being able to explain advanced terms in simpler terms
+- described as a great leader and teacher by past coaches 
+- qualified to teach complex concepts to anyone!
 
 --> I'm a great teacher! Exactly what you need in a PM or any helpful team member
 
@@ -17,7 +17,8 @@ My interests go beyond CS and Math:
 
 - Small business owner [@shopmikamina](www.instagram.com/shopmikamina)
 - I love working with arts and crafts, refining my eye for small details!
-
+- I'm interested in Economics and understanding why and how people make decisions
+  - This allows me to understand the choices team members or partners may make and provide me with the resources to guide them with their decisions
 
 
 ### Contact me
