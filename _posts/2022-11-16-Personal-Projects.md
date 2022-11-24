@@ -33,14 +33,14 @@ Additionally, I'm an avid journaler/scrapbook-er. Here's some of works featured 
   </div>
 </div>
 
-/* Three image containers (use 25% for four, and 50% for two, etc) */
+/*  */
 .column {
   float: left;
   width: 50%;
   padding: 5px;
 }
 
-/* Clear floats after image containers */
+/* */
 .row::after {
   content: "";
   clear: both;
