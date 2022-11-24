@@ -4,6 +4,12 @@ title: About
 permalink: /about/
 ---
 
+<html>
+<body style="background-color:aquamarine;">
+   <h1>HTML Articles</h1>
+</body>
+</html>
+
 Hello! Here's the TL;DR about me:
 - CS-Math major '26 @ Harvey Mudd College
 - described as a great leader and teacher by past coaches 
