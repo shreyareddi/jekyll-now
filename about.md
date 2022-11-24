@@ -14,7 +14,7 @@ Hello! Here's the TL;DR about me:
 
 My interests go beyond CS and Math:
 
-- Small business owner [@shopmikamina](www.instagram.com/shopmikamina)
+- Small business owner <a href="https://www.instagram.com/shopmikamina"> @shopmikamina </a>
 - I love working with arts and crafts, refining my eye for small details!
 - I'm interested in Economics and understanding why and how people make decisions
   - This allows me to understand the choices team members or partners may make and provide me with the resources to guide them with their decisions
