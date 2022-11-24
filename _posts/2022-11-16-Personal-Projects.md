@@ -13,9 +13,7 @@ Here's a look at some of the creations:
 
 <!--![image](https://user-images.githubusercontent.com/118146378/203852535-a867fa92-9519-41fe-a3b4-2295003b3f40.png)-->
 
-Additionally, I'm an avid journaler/scrapbook-er. Here's some of works featured on an Instagram account:
-
-<a href="https://www.instagram.com/jboinba">Visit my journal @jboinba!</a>
+Additionally, I'm an avid journaler/scrapbook-er. Here's some of works featured on my Instagram account: (<a href="https://www.instagram.com/jboinba">Visit my journal @jboinba!</a>)
 
 <!--![image](https://user-images.githubusercontent.com/118146378/203854336-15096d96-364d-4085-8e9c-0470f8ca793e.png)-->
 
