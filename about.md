@@ -8,8 +8,7 @@ Hello! Here's the TL;DR about me:
 - CS-Math major '26 @ Harvey Mudd College
 - described as a great leader and teacher by past coaches 
 - qualified to teach complex concepts to anyone!
-
---> I'm a great teacher! Exactly what you need in a PM or any helpful team member
+  - I'm a great teacher! Exactly what you need in a PM or any helpful team member
 
 ### More Information
 
