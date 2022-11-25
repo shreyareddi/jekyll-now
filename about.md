@@ -6,9 +6,9 @@ permalink: /about/
 
 Hello! Here's the TL;DR about me:
 - CS-Math '26 @ Harvey Mudd College
-- described as a great leader w/ the drive to get things done by past coaches 
-- qualified to teach complex concepts to anyone!
-  - I'm a great teacher! Exactly what you need in a PM or any helpful team member
+- described as a great leader with the drive to get things done by past coaches 
+- I'm a great teacher, qualified to teach complex concepts to anyone!
+  - Exactly what you need in a PM or any helpful team member
 
 ### More Information
 
