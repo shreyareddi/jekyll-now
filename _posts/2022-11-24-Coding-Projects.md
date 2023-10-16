@@ -13,4 +13,4 @@ Uses JavaScript, HTML, and CSS. (<a href="https://shreyareddi.github.io/whos-tha
 **Spampede - Snake Game**  
 Harvey Mudd's version of the Snake game. A class project for CS60 - Principle of Computer Science.
 Written with Java, utilizes a Model View Controller (MVC) setup, and displayed through JApplet.
-<img src="" alt="https://shreyareddi.github.io/whos-that-pokemon/" style="width:625px;height: 650px;">
+<img src="https://raw.githubusercontent.com/shreyareddi/shreyareddi.github.io/0452b235a1de9e91f393a283b844185f7b5c94b0/images/spampede_example.png" alt="https://shreyareddi.github.io/whos-that-pokemon/" style="width:625px;height: 575px;">
