@@ -14,12 +14,6 @@ Hello! Here's the TL;DR about me:
 ### More Information
 
 My interests go beyond CS and Math:
-
 - I love working with arts and crafts, take a look <a href="https://shreyareddi.github.io/Personal-Projects/"> here </a>!
 - Interested in Economics/Venture Capital and using computing to improve the systems used today
 - My idea of unwinding involves rewatching sitcoms (Modern Family!), visiting the beach, and spending time with loved ones
-
-
-### Contact me
-
-[shrsaired@gmail.com](mailto:shrsaired@gmail.com)
